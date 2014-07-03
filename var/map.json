@@ -12,7 +12,7 @@ se.tl = {
       //"zoom": "18", //tree level
       "maxZoom": "18", //tree level
       "attribution": "Map data &copy; <a href=\"http:/openstreetmap.org\">OpenStreetMap</a>",
-      "id": "alexxdotnet.ik70o4go"
+      "id": "alexxdotnet.1234"
 },
 se.map = {},// anything in se.map is meant to be added to the map 
 se.map.marker = {
